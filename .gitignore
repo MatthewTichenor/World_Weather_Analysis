@@ -4,6 +4,7 @@ config.py
 #add files
 Vacation_weather.ipynb
 weather_database.ipynb
+vacation_Inventory.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
